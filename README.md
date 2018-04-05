@@ -1,1 +1,4 @@
-# Redis3.2.1
+#启动redis
+./redisManager start
+#停止redis
+./redisManager stop
